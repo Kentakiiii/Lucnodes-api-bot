@@ -10,6 +10,6 @@ Pasos a seguir:
 
 Si tienes alguna duda o necesitas ayuda contactanos a traves del sistema de tickets que hay en nuestro servidor.
 
-Discord Lucnodes-> hhtps://discord.lucnodes.com
+Discord Lucnodes-> https://discord.lucnodes.com
 
 
